@@ -66,8 +66,10 @@ Input:
            3 3 3 3
            5 5 2 1
 Output:
+
            7 5 4
 The basins, labeled with A’s, B’s, and C’s, are:
+
            A A B B
            A B B B
            A B B C
