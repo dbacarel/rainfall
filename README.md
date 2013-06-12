@@ -40,7 +40,8 @@ Output:
            1
            
 There is only one basin in this case.
-Input:
+Input
+
            5
            1 0 2 5 8
            2 3 4 7 9
@@ -48,14 +49,17 @@ Input:
            1 2 5 4 2
            2 3 5 2 1
 Output:
+
            11 7 7
 The basins, labeled with A’s, B’s, and C’s, are:
+
            A A A A A
            A A A A A
            B B A C C
            B B B C C
            B B C C C
 Input:
+
            4
            0 2 1 3
            2 1 0 4
